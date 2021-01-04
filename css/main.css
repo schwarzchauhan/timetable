@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+::selection {
+    text-shadow: 1px 1px 2px maroon;
+    background-color: lime;
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(153, 145, 189), rgb(211, 162, 153), rgb(169, 171, 182));
+}
+
+.rotatehalf {
+    animation: rotatehalf 2s linear 0s normal forwards;
+}
+
+@keyframes rotatehalf {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(-180deg);
+    }
+}
+
+.rotatefull {
+    animation: rotatefull 2s linear 0s normal forwards;
+}
+
+@keyframes rotatefull {
+    from {
+        transform: rotateZ(-180deg);
+    }
+    to {
+        transform: rotateZ(-360deg);
+    }
+}

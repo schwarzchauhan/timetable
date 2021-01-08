@@ -14,6 +14,16 @@ body {
     background-image: linear-gradient(to right, rgb(153, 145, 189), rgb(211, 162, 153), rgb(169, 171, 182));
 }
 
+#timer {
+    position: fixed;
+    right: 5px;
+    top: 5px;
+    font-weight: bold;
+}
+
+
+/* classes */
+
 .rotatehalf {
     animation: rotatehalf 2s linear 0s normal forwards;
 }

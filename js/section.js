@@ -2,7 +2,7 @@ $(function() {
 
     const sub = $('.subject');
     setInterval(function() {
-            var i = Math.floor(Math.random() * 49);
+            var i = Math.floor(Math.random() * sub.length);
             console.log(i + " " + sub[i]);
 
             if (sub[i].style.transform == "rotateZ(-180deg)") {

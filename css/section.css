@@ -24,12 +24,12 @@
 
 a.os {
     top: 0px;
-    left: -255px;
+    left: -260px;
 }
 
 a.cs {
     top: 35px;
-    left: -300px;
+    left: -302px;
 }
 
 a.sv {
@@ -39,17 +39,17 @@ a.sv {
 
 a.cn {
     top: 105px;
-    left: -255px;
+    left: -260px;
 }
 
 a.e1 {
     top: 140px;
-    left: -300px;
+    left: -350px;
 }
 
 a.e2 {
     top: 175px;
-    left: -315px;
+    left: -590px;
 }
 
 .slideRight {

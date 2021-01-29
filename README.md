@@ -1,9 +1,10 @@
-# __Collage Timetable With Flipping Cells__
+# Collage Timetable With Flipping Cells
 
 
 The **timetable** is made using Html, Css, Js,JQuery(Library) 
 
-## **Features**  🏹
+Features  🏹
+===
 
 * flliping cells ⟲
 * side navigation icons 
@@ -16,11 +17,13 @@ The **timetable** is made using Html, Css, Js,JQuery(Library)
     * Competitive Programming 👨‍💻
     * Stochastic Processes and Queuing Theory 🎲
 
-## **How it looks** 🤓
+How it looks 🤓
+===
+
 ![demo Pic](docs/slideRight.gif)
 
 You can see the explanatory video on [youtube](https://www.youtube.com/channel/UCCSsffoAPFq8Zd584k2ECBA)
 
 
-### **License**
+## License
 None 🤪

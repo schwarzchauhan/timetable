@@ -1,6 +1,5 @@
 # Collage Timetable With Flipping Cells
 
-
 The **timetable** is made using Html, Css, Js,JQuery(Library) 
 
 Features  🏹
@@ -27,3 +26,10 @@ You can see the explanatory video on [youtube](https://www.youtube.com/channel/U
 
 ## License
 None 🤪
+
+learnings
+---
+- positioning side nav btns ( links in div.sideNav in section)
+- events (mouseover, mouseout on links in div.sideNav in section)
+- add and remove class (div.subject in section)
+- animation (div.subject in section)
